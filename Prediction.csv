@@ -1,4 +1,4 @@
-SMILES,pre_ben
+SMILES,pre
 O=C(c1ccc(*)cc1)c1ccc(COCOCc2ccc(C(=O)c3ccc(N4C(=O)c5ccc(-c6ccc(CCC(O)CCc7ccc(-c8ccc9c(c8)C(=O)N(*)C9=O)cc7)cc6)cc5C4=O)cc3)cc2)cc1,2.8831663
 O=C(NCc1ccc(Cc2ccc(CNC(=O)c3ccc(N4C(=O)c5ccc(C(=O)c6ccc(C(O)CC(O)c7ccc(C(=O)c8ccc9c(c8)C(=O)N(*)C9=O)cc7)cc6)cc5C4=O)cc3)cc2)cc1)c1ccc(*)cc1,2.9050262
 O=C(NCc1ccc(Oc2ccc(CNC(=O)c3ccc(N4C(=O)c5ccc(C(=O)c6ccc7c(c6)C(=O)N(*)C7=O)cc5C4=O)cc3)cc2)cc1)c1ccc(*)cc1,2.904232
@@ -983,3 +983,4 @@ O=C(Oc1ccc(*)cc1)c1ccc(-c2ccc(-c3ccc(C(=O)Oc4ccc(N5C(=O)c6ccc(OC(=O)c7ccc(S(=O)c
 O=C(c1ccc(*)cc1)c1ccc(-c2ccc(-c3ccc(C(=O)c4ccc(N5C(=O)c6ccc(-c7ccc(Sc8ccc(-c9ccc%10c(c9)C(=O)N(*)C%10=O)cc8)cc7)cc6C5=O)cc4)cc3)cc2)cc1,3.4579804
 O=C(c1ccc(-c2ccc(-c3ccc(C(=O)c4ccc5c(c4)C(=O)N(c4ccc(-c6ccc(C(O)CC(O)c7ccc(-c8ccc(*)cc8)cc7)cc6)cc4)C5=O)cc3)s2)cc1)c1ccc2c(c1)C(=O)N(*)C2=O,3.3141627
 O=C(Oc1ccc(*)cc1)c1ccc(Oc2ccc(C(=O)Oc3ccc(N4C(=O)c5ccc(C(=O)c6ccc7c(c6)C(=O)N(*)C7=O)cc5C4=O)cc3)cc2)cc1,3.181616
+
